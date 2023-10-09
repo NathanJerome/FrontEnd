@@ -343,7 +343,6 @@ getWorks("Tous")
 
 //Filtre permettant de trier en fonction de notre choix
 function btnFilter(category){
-    alert('Vous avez cliqué sur un bouton')
     //console.log(category)
     const selected = document.querySelector('[selected=""]')
     selected.removeAttribute("selected")

@@ -260,7 +260,7 @@ a {
 	margin-bottom: 20%;
 }
 
-input[type="text"], select{
+input[type="text"], input[type="password"], select{
 	margin-bottom: 10px;
 	width: 60%;
 	justify-content: center;	
